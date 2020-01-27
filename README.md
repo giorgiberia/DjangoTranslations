@@ -1,0 +1,2 @@
+# DjangoTranslations
+Django locale example
